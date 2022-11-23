@@ -10,6 +10,8 @@ I am highly motivated, dedicated and have a passion for making ideas a reality!
 [<img align="left" alt="juljuliks | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
 [<img align="left" alt="juljuliks | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
+<br/>
+<br/>
 ---
 
 ### My stack:
@@ -24,6 +26,10 @@ I am highly motivated, dedicated and have a passion for making ideas a reality!
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][git]
 [<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][git]
 [<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
+
+<br/>
+<br/>
+<br/>
 
 - **Frontend**: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass
 - **Backend**: Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs, PostgreSQL, Sequelize ORM
