@@ -15,14 +15,11 @@ I am highly motivated, dedicated and have a passion for making ideas a reality!
 
 ---
 
-
-[resume]: https://drive.google.com/file/d/1fimloQQ7aPQDQ1kvQda6bTDQsP9zl313/view?usp=sharing
-[resumeHH]: https://hh.ru/resume/e74a53f2ff095f7dfb0039ed1f657455356546
-[linkedin]: https://www.linkedin.com/in/juliaglukhova
-[whatsapp]: https://wa.me/79821194609
-[telegram]: https://t.me/juljulik 
-[instagram]: https://www.instagram.com/juljuliks
-[git]: https://github.com/juljuliks
+[linkedin]: https://www.linkedin.com/in/daria-latushkina/
+[whatsapp]: https://wa.me/79160247892
+[telegram]: https://t.me/lushdash 
+[instagram]: https://www.instagram.com/lush.dash
+[git]: https://github.com/lush-dash
 
 <!--
 **lush-dash/lush-dash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
