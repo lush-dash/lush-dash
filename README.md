@@ -25,7 +25,7 @@ I am highly motivated, dedicated and have a passion for making ideas a reality!
 [<img align="left" alt="SQL" width="32px" src="https://img.icons8.com/color-glass/48/000000/sql.png"/>][git]
 [<img align="left" alt="PostgreSQL" width="32px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
 [<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
-[<img align="left" alt="Jira" width="32px" src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Emblem.png"/>][git]
+[<img align="left" alt="Jira" width="32px" src="https://logojinni.com/image/logos/jira-3.svg"/>][git]
 [<img align="left" alt="Confluence" width="32px" src="https://luna1.co/9e2fa8.png"/>][git]
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][git]
 
