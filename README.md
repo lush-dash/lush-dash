@@ -12,8 +12,8 @@ I am highly motivated, dedicated and have a passion for making ideas a reality!
 
 <br/>
 <br/>
----
 
+---
 ### My stack:
 
 [<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
@@ -31,13 +31,13 @@ I am highly motivated, dedicated and have a passion for making ideas a reality!
 <br/>
 <br/>
 
-- **Frontend**: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass
-- **Backend**: Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs, PostgreSQL, Sequelize ORM
+- **Frontend**: JS, React, React Native, Redux (Saga, Thunk, Toolkit), HTML, CSS, Material UI, Bootstrap
+- **Backend**: Node.js, Express, PostgreSQL, Sequelize, SQL
 - **Testing**: Jest
 - **Other**: Jira, Confluence, Git, GitHub
 ---
 ### GitHub cтатистика:
-[![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=lush-dash&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/lush-dash)
+[![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=lush-dash&hide=issues&count_private=true&show_icons=true)](https://github.com/lush-dash)
 
 [linkedin]: https://www.linkedin.com/in/daria-latushkina/
 [whatsapp]: https://wa.me/79160247892
