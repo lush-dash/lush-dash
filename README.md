@@ -36,9 +36,9 @@ I am highly motivated, dedicated and have a passion for making ideas a reality!
 - **Backend**: Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs, PostgreSQL, Sequelize ORM
 - **Testing**: Jest
 - **Other**: Jira, Confluence, Git, GitHub
-
-
 ---
+### GitHub cтатистика:
+[![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=juljuliks&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/lush-dash)
 
 [linkedin]: https://www.linkedin.com/in/daria-latushkina/
 [whatsapp]: https://wa.me/79160247892
