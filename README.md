@@ -3,7 +3,7 @@
 
 I am highly motivated, dedicated and have a passion for making ideas a reality!
 
----
+--
 ### How you can reach me:
 
 [<img align="left" alt="juljuliks | LinkedIn" width="32px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
