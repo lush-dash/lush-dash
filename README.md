@@ -1,3 +1,4 @@
+<h1 align="center">Hi there, I am Daria, a Full-Stack Developer! 👋</h1>
 ### Hi there, I am Daria, a Full-Stack Developer! 👋
 
 I am highly motivated, dedicated and have a passion for making ideas a reality!
