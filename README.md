@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Daria, a Full-Stack Developer! 👋
+
+I am highly motivated, dedicated and have a passion for making ideas a reality!
 
 <!--
 **lush-dash/lush-dash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
